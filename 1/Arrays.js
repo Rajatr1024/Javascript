@@ -4,3 +4,4 @@ function logThing(str)
     console.log(str);
 }
 inttialarray.forEach(logThing)
+// Updating
