@@ -34,3 +34,4 @@ let dog = new Animal("dog", 4, "bhow bhow");
 let cat = new Animal("cat", 4, "meow");
 dog.speak();
 cat.speak();
+// Updated
